@@ -15,7 +15,7 @@ paths:
           schema:
             type: array
             items:
-              $ref: '#definitions/Item'
+              $ref: '#/definitions/Item'
 
 description:
   Item:
